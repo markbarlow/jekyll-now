@@ -12,4 +12,4 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 Test some html:
 
- <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2650403783/size=small/bgcol=ffffff/linkcol=0687f5/track=1225888999/transparent=true/" seamless><a href="http://mulberryharbour.bandcamp.com/album/the-water-boatman">The Water Boatman by Mulberry Harbour</a></iframe>
+ <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2650403783/size=small/bgcol=ffffff/linkcol=0687f5/track=1225888999/transparent=true/" seamless><a href="http://mulberryharbour.bandcamp.com/album/the-water-boatman">The Water Boatman by Mulberry Harbour</a> </iframe>
