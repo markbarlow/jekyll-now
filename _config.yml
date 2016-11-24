@@ -77,6 +77,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate  # Add the pagination plugin, MB added this
+
 
 # Exclude these files from your production _site
 exclude:
@@ -91,4 +93,7 @@ exclude:
 
 # This one came from the Windows Jekyll installation guide, https://labs.sverrirs.com/jekyll/6-running-jekyll.html,  may not be necessary
 encoding: utf-8
+
+# Pagination setting from http://jekyllrb.com/docs/pagination/
+paginate: 3
 
