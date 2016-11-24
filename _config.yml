@@ -85,3 +85,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+# START MB ADDITIONS
+
+# This one came from the Windows Jekyll installation guide, https://labs.sverrirs.com/jekyll/6-running-jekyll.html,  may not be necessary
+encoding: utf-8
+
