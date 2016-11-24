@@ -18,7 +18,7 @@ title: My blog
 <!-- Pagination links test - not working where this file lives at /blog.html -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
